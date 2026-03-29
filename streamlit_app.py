@@ -64,7 +64,7 @@ gdp_df = get_gdp_data()
 
 # Set the title that appears at the top of the page.
 '''
-# :earth_americas: GDP dashboard
+# :earth_americas: 💲GDP dashboard
 
 Check out the GDP data on the [World Bank Open Data](https://data.worldbank.org/) website. As you'll see,
 the data currently only goes up to 2022, and values are often missing for some years.
