@@ -66,9 +66,9 @@ gdp_df = get_gdp_data()
 '''
 # :earth_americas: GDP dashboard
 
-Browse GDP data from the [World Bank Open Data](https://data.worldbank.org/) website. As you'll
-notice, the data only goes to 2022 right now, and datapoints for certain years are often missing.
-But it's otherwise a great (and did I mention _free_?) source of data.
+Check out the GDP data on the [World Bank Open Data](https://data.worldbank.org/) website. As you'll see,
+the data currently only goes up to 2022, and values are often missing for some years.
+But otherwise, it’s a great data source that lets you see how GDP has increased or decreased in certain countries I’ve added to my list  (did I mention it’s free?).
 '''
 
 # Add some spacing
